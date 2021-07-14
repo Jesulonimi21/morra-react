@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%7Bmorra-react%7D/static/css/main.42a6766c.chunk.css",
+    "main.js": "/%7Bmorra-react%7D/static/js/main.35e62bf4.chunk.js",
+    "main.js.map": "/%7Bmorra-react%7D/static/js/main.35e62bf4.chunk.js.map",
+    "runtime-main.js": "/%7Bmorra-react%7D/static/js/runtime-main.656daf04.js",
+    "runtime-main.js.map": "/%7Bmorra-react%7D/static/js/runtime-main.656daf04.js.map",
+    "static/js/2.ca99cc4b.chunk.js": "/%7Bmorra-react%7D/static/js/2.ca99cc4b.chunk.js",
+    "static/js/2.ca99cc4b.chunk.js.map": "/%7Bmorra-react%7D/static/js/2.ca99cc4b.chunk.js.map",
+    "static/js/3.0d1cf83a.chunk.js": "/%7Bmorra-react%7D/static/js/3.0d1cf83a.chunk.js",
+    "static/js/3.0d1cf83a.chunk.js.map": "/%7Bmorra-react%7D/static/js/3.0d1cf83a.chunk.js.map",
+    "index.html": "/%7Bmorra-react%7D/index.html",
+    "static/css/main.42a6766c.chunk.css.map": "/%7Bmorra-react%7D/static/css/main.42a6766c.chunk.css.map",
+    "static/js/2.ca99cc4b.chunk.js.LICENSE.txt": "/%7Bmorra-react%7D/static/js/2.ca99cc4b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/%7Bmorra-react%7D/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.656daf04.js",
+    "static/js/2.ca99cc4b.chunk.js",
+    "static/css/main.42a6766c.chunk.css",
+    "static/js/main.35e62bf4.chunk.js"
+  ]
+}
